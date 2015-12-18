@@ -1,4 +1,8 @@
 # vimrc
-just my vim config, it is a small shell of what it used to be, but I figure I might as well have one up on git that I can modify and also that way I don't have to look up how to install it every time
+#Personal vimrc / neovimrc files (SMALL)
 
-go into vim and type ":echo $VIM", pull this folder into that folder and everything should work.
+# TO INSTALL (will overwrite your stuff so be careful)
+cd ~; 
+git clone https://github.com/macromaniac/vimrc.git;
+mv vimrc/* ..;
+rm vimrc
