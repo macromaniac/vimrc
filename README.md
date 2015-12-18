@@ -9,9 +9,9 @@ sudo rm -r vimrc;
 
 git clone https://github.com/macromaniac/vimrc.git;
 
-mkdir -p .config/neovim
+mkdir -p .config/nvim
 
-sudo mv vimrc/.config/neovim/init.vim .config/neovim/init.vim;
+sudo mv vimrc/.config/nvim/init.vim .config/nvim/init.vim;
 
 sudo mv vimrc/.vimrc .;
 
