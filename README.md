@@ -2,6 +2,7 @@
 
 this will overwrite your current vimrc/nvimrc files so be careful: (Note: rsync would be easier here but i didn't want any dependencies)
 
+```bash
 cd ~; 
 
 sudo rm -r vimrc;
@@ -17,4 +18,4 @@ sudo mv vimrc/.vimrc .;
 sudo rm -r vimrc;
 
 echo "Done";
-
+```
