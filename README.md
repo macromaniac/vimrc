@@ -8,8 +8,11 @@ sudo rm -r vimrc;
 
 git clone https://github.com/macromaniac/vimrc.git;
 
-sudo mv vimrc/* ..;
+sudo mv vimrc/.config .;
+
+sudo mv vimrc/.vimrc .;
 
 sudo rm -r vimrc;
 
+echo "Done";
 
