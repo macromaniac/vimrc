@@ -18,3 +18,8 @@ map <F2> @x
 map <F3> @c
 map <F4> @v
 map <F5> @b
+
+"regular repl
+let @x="VylpA
+$"
+let @v="ylph"
