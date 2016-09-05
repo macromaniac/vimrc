@@ -14,7 +14,5 @@ map <F4> @v
 map <F5> @b
 
 "python repl
-let @x="V\"+ylAkbkbkbkbkbkbkbkbkbkbkbkbkbkbkbkbkbkbkbkbkbkbkbkbkb%paste
-"
-let @v="\"+ylAkbkbkbkbkbkbkbkbkbkbkbkbkbkbükbükbükbükbükbükbükbükbükbükbükbükblA%paste
-"
+let @x="V\"+ylAkbkbkbkbkbkbkbkbkbkbkbkbkbkbkbkbkbkbkbkbkbkbkbkbkb%paste"
+let @v="\"+ylAkbkbkbkbkbkbkbkbkbkbkbkbkbkbükbükbükbükbükbükbükbükbükbükbükbükblA%paste"
