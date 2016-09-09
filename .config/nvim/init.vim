@@ -16,3 +16,7 @@ map <F5> @b
 "regular repl
 let @x="VylpA$"
 let @v="ylph"
+filetype plugin indent on
+"python repl
+au FileType python let @x="V\"+ylA%paste\<BS>\<BS>\<BS>\<BS>\<BS>\<BS>\<BS>\<BS>\<BS>\<BS>\<BS>\<BS>\<BS>\<BS>\<BS>\<BS>\<BS>\<BS>\<BS>\<BS>\<BS>%paste\<CR>"
+au FileType python let @v="\"+ylA\<BS>\<BS>\<BS>\<BS>\<BS>\<BS>\<BS>\<BS>\<BS>%paste\<CR>"
